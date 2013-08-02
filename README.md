@@ -2,8 +2,8 @@ iMail
 =====
 
 
-iMail - Hệ thống thư điện tử đa cấp
-Sản phẩm được phát triển bởi công ty iNet Solutions
+iMail - Hệ thống thư điện tử đa cấp - Sản phẩm được
+phát triển bởi công ty iNet Solutions
 
 iMail là một sản phẩm phần mềm Việt với cam kết 100%
 tính hợp pháp về pháp lý bản quyền phần mềm. Hệ thống
